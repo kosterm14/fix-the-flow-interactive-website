@@ -191,9 +191,9 @@ button {
   transform: rotate(90deg);
 }
 
-.grid-container > .h1 :hover {
-  
-}
+/* .grid-container > .h1 :hover {
+
+} */
 
 .grid-container-2 {
   display: grid;
@@ -322,11 +322,50 @@ h4 {
     display: grid;
     align-items: flex-end;
   }
+
+  .grid-container-2 {
+    display: grid;
+    grid-template-columns: auto;
+    justify-content: center;
+    padding: 10%;
+  }
+  
+  .gray1,
+  .text2 {
+    grid-column-start: 3;
+    grid-column-end: 5;
+    grid-row-start: 2;
+    margin: 40px;
+  }
+    
+  .gray2,
+  .text3 {
+    grid-column-start: 3;
+    grid-column-end: 5;
+    grid-row-start: 3;
+    margin: 40px;
+  }
+  
+  .gray3,
+  .text4 {
+    grid-column-start: 3;
+    grid-column-end: 5;
+    grid-row-start: 4;
+    margin: 40px;
+  }
+  
+  .gray4,
+  .text5 {
+    grid-column-start: 3;
+    grid-column-end: 5;
+    grid-row-start: 5;
+    margin: 40px;
+  }
 }
 
 #hide {
   visibility: hidden;
-  margin-top: -120%;
+  margin-top: -500%;
 }
 
 .show {
