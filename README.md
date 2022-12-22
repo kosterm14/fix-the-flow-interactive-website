@@ -1,22 +1,18 @@
-> _Fork_ deze leertaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+# Visual Thinking
+Nieuwe homepage
 
 ## User Story
-<!-- Schrijf de user story waar je aan hebt gewerkt  -->
+Als student en docent wil ik (direct) kunnen zien wat het platform te bieden heeft.
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+Ik heb een nieuwe homepage voor mijn opdrachtgever gemaakt om zo het probleem in de user story op te lossen.
 
-## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe? -->
+## Talen
+Ik heb gebruik gemaakt van de volgende talen:
 
-
+* HTML
+* CSS
+* Javascript
 
 ## Licentie
 
